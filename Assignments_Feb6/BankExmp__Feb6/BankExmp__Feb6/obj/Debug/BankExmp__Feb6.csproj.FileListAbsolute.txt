@@ -1,0 +1,8 @@
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\obj\Debug\BankExmp__Feb6.csproj.AssemblyReference.cache
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\obj\Debug\BankExmp__Feb6.csproj.SuggestedBindingRedirects.cache
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\obj\Debug\BankExmp__Feb6.csproj.CoreCompileInputs.cache
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\bin\Debug\BankExmp__Feb6.exe.config
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\bin\Debug\BankExmp__Feb6.exe
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\bin\Debug\BankExmp__Feb6.pdb
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\obj\Debug\BankExmp__Feb6.exe
+C:\Users\XC668EV\source\repos\BankExmp__Feb6\BankExmp__Feb6\obj\Debug\BankExmp__Feb6.pdb
